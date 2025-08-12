@@ -1,2 +1,10 @@
-# jurisprudencia-rj-scraper
-Aplicação de busca e jurimetria para as decisões do Conselho de Contribuintes do RJ.
+
+---
+title: Jurimetria CC-RJ
+emoji: ⚖️
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
